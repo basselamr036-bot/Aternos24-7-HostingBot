@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "Greenzombiesmp.aternos.me:58768",
+    "port": 58768,
     "version": "",
     "try-creative": false
   },
